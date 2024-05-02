@@ -8,13 +8,12 @@ Scenario 1
 
  | \# | Step | Expected Behavior |
  |----|------|-------------------|
- |  1 |      | Verify that ...   |
- |  2 |      | Verify that ...   |
- |  3 |      | Verify that ...   |
+ |  1 |  Enter valid email "example@email.com" into the email/number field.    | Verify that the email "example@email.com" is successfully entered into the email/number field.   |
+ |  2 |  Enter valid username "user123" into the username field.    | Verify that the username "user123" is successfully entered into the username field.   |
+ |  3 |  Enter valid password "pass123" into the password field.    | Verify that the password "pass123" is successfully entered into the password field.   |
+ |  4 |  Click on the "Register Account" button.| Verify that a success message was displayed After clicking "Register Account".   |
 
 **Post-conditions:**
 
- - x
- - y
- - z
+ - The account is registered
 
