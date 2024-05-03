@@ -15,5 +15,6 @@ Scenario 1
 
 **Post-conditions:**
 
- - The account is registered
+ - A new account is created in the system with the provided email, username, and password.
+ - The user is logged in to the newly created account.
 
