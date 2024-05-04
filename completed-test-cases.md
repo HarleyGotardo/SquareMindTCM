@@ -28,7 +28,7 @@
    * [SALESREC-0005: Sales record testing - Empty Fields](<./Sales Record Testing/SALESREC-0005_sales_record_testing_empty_fields.md>)
    * [SALESREC-0006: Sales record testing - Negative Quantity](<./Sales Record Testing/SALESREC-0006_sales_record_testing_negative_quantity.md>)
    * [SALESREC-0007: Sales record testing - Maximum Quantity](<./Sales Record Testing/SALESREC-0007_sales_record_testing_maximum_quantity.md>)
-* Dashboard
+* Dashboard Testing
    * [DASH-0001: Dashboard testing - Dispaly](<./Dashboard Testing/DASH-0001_dashboard_testing_display.md>)
    * [DASH-0002: Dashboard testing - Total Sales](<./Dashboard Testing/DASH-0002_dashboard_testing_total_sale.md>)
    * [DASH-0003: Dashboard testing - Total Sales Month](<./Dashboard Testing/DASH-0003_dashboard_testing_total_sales_month.md>)
