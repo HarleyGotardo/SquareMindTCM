@@ -1,4 +1,4 @@
-## DASH-0001:** Dashboard testing - Dispaly
+## **DASH-0001:** Dashboard testing - Dispaly
 
 > **Summary:** This test verifies that the dashboard correctly displays the cards for total sales, items sold, and total sales by month.  <br>
 
